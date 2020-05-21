@@ -33,3 +33,21 @@
 
 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/62729363/82534695-85bb8680-9b80-11ea-8caa-5076ce54947f.png)
+
+# Using CNN Model3
+
+1. Model
+![image](https://user-images.githubusercontent.com/62729363/82535088-52c5c280-9b81-11ea-8f4c-5dff65a7cd8f.png)
+
+2. Training with Training loss
+![image](https://user-images.githubusercontent.com/62729363/82535128-62dda200-9b81-11ea-879c-baeed37f6539.png)
+
+3. Test Accuracy
+![image](https://user-images.githubusercontent.com/62729363/82535155-6ec96400-9b81-11ea-95e1-fa5efd07e3da.png)
+
+4. Images and corresponding probability that predicted Right
+![image](https://user-images.githubusercontent.com/62729363/82535190-7b4dbc80-9b81-11ea-84bb-7719c3febdd9.png)
+
+5. Images and corresponding probability that predicted Wrong
+![image](https://user-images.githubusercontent.com/62729363/82535237-8a346f00-9b81-11ea-88a1-48ef498e605f.png)
+
